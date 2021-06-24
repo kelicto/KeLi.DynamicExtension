@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeLi.DynamicExtension.App", "KeLi.DynamicExtension.App\KeLi.DynamicExtension.App.csproj", "{C1ED49DB-2F36-4FEE-8BE9-BDA6FD26A364}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KeLi.DynamicExtension.Plugins", "KeLi.DynamicExtension.Plugins", "{18D96649-24C3-48CC-B7E8-3593390566CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeLi.DynamicExtension.Tool", "KeLi.DynamicExtension.Tool\KeLi.DynamicExtension.Tool.csproj", "{E2AB300E-A2C7-415B-82D0-E3A778485B8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeLi.DynamicExtension.Plugin.SystemInfo", "KeLi.DynamicExtension.Plugin.SystemInfo\KeLi.DynamicExtension.Plugin.SystemInfo.csproj", "{E70E7824-A552-4F95-AB45-DE7F25CD86AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeLi.DynamicExtension.DB", "KeLi.DynamicExtension.DB\KeLi.DynamicExtension.DB.csproj", "{4CEF9C0D-2533-4815-BD90-F43D590ABE22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1ED49DB-2F36-4FEE-8BE9-BDA6FD26A364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1ED49DB-2F36-4FEE-8BE9-BDA6FD26A364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1ED49DB-2F36-4FEE-8BE9-BDA6FD26A364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1ED49DB-2F36-4FEE-8BE9-BDA6FD26A364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2AB300E-A2C7-415B-82D0-E3A778485B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2AB300E-A2C7-415B-82D0-E3A778485B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2AB300E-A2C7-415B-82D0-E3A778485B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2AB300E-A2C7-415B-82D0-E3A778485B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E70E7824-A552-4F95-AB45-DE7F25CD86AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E70E7824-A552-4F95-AB45-DE7F25CD86AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E70E7824-A552-4F95-AB45-DE7F25CD86AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E70E7824-A552-4F95-AB45-DE7F25CD86AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CEF9C0D-2533-4815-BD90-F43D590ABE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CEF9C0D-2533-4815-BD90-F43D590ABE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CEF9C0D-2533-4815-BD90-F43D590ABE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CEF9C0D-2533-4815-BD90-F43D590ABE22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E70E7824-A552-4F95-AB45-DE7F25CD86AD} = {18D96649-24C3-48CC-B7E8-3593390566CC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA8AC631-EED4-4F0F-813F-333F7EDC940A}
+	EndGlobalSection
+EndGlobal
