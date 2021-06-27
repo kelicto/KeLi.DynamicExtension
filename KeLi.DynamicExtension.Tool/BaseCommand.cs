@@ -2,7 +2,7 @@
 
 namespace KeLi.DynamicExtension.Tool
 {
-    public abstract class BaseCommand: ICommand
+    public abstract class BaseCommand: IExternalCommand
     {
         protected DocumentSet _documentSet;
 

@@ -2,7 +2,7 @@
 
 namespace KeLi.DynamicExtension.Tool
 {
-    public interface ICommand
+    public interface IExternalCommand
     {
         void Execute(DocumentSet documentSet);
     }
