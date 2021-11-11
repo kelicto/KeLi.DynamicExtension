@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{C1ED49DB-2F36-4FEE-8BE9-BDA6FD26A364}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>KeLi.DynamicExtension.App</RootNamespace>
-    <AssemblyName>KeLi.DynamicExtension.App</AssemblyName>
+    <RootNamespace>KeLi.DynamicExtension</RootNamespace>
+    <AssemblyName>KeLi.DynamicExtension</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

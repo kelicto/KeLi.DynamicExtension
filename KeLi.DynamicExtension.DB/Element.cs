@@ -1,4 +1,4 @@
-﻿namespace KeLi.DynamicExtension.App
+﻿namespace KeLi.DynamicExtension.DB
 {
     public class Element
     {

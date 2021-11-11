@@ -1,6 +1,4 @@
-﻿using KeLi.DynamicExtension.App;
-
-namespace KeLi.DynamicExtension.DB
+﻿namespace KeLi.DynamicExtension.DB
 {
     public class Document
     {

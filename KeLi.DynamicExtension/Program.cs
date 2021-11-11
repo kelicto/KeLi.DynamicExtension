@@ -6,7 +6,7 @@ using System.Reflection;
 using KeLi.DynamicExtension.DB;
 using KeLi.DynamicExtension.Tool;
 
-namespace KeLi.DynamicExtension.App
+namespace KeLi.DynamicExtension
 {
     internal class Program
     {
